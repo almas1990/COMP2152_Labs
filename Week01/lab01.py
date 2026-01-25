@@ -2,7 +2,7 @@
 # Almas Sultana
 
 # Question 02
-my_array = [1, 2, 3, 4, 5]
+my_array = [1, 4, 5, 9, 3]
 
 # Question 3 : Order of Operetions
 a = 1
