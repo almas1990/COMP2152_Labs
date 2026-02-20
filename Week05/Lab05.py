@@ -215,7 +215,7 @@ def binary_search_recursive(nums, target, left, right):
     #  If target > nums[mid], recurse on right half
     # Hint: return binary_search_recursive(nums, target, mid + 1, right)
 
-    pass  # Remove this line when you add your code
+     # Remove this line when you add your code
 
 
 # Wrapper function for recursive solution
