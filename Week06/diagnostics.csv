@@ -1,0 +1,4 @@
+2026-02-20 14:54:04,ping,google.com,12,Success
+2026-02-20 14:54:56,nslookup,github.com,Not found,Failed
+2026-02-20 14:55:28,ipconfig,all,08-97-98-CD-66-A3 / 192.168.2.242,Captured
+2026-02-20 14:56:15,arp,local,8 devices,Captured
